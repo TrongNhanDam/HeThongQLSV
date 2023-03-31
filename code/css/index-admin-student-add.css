@@ -1,0 +1,45 @@
+.student-add {
+    display: none;
+}
+
+.active-tab-content {
+    display: block;
+}
+
+.student {
+    width: 70%;
+    /* border: 2px solid black; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    background-color: aliceblue;
+}
+
+.student-table tr td {
+    text-align: left;
+    padding: 20px;
+}
+
+.student-des {
+    width: 100%;
+    height: 100px;
+
+}
+
+.container__body__content__content__input {
+    width: 100%;
+    padding: 5px;
+    transition: all 0.2s linear;
+    border-radius: 3px;
+    outline: 2px solid black;
+    border: none;
+}
+
+.container__body__content__content__input:focus {
+    outline: 3px solid navy;
+}
+
+.container__body__content__content__input {}
+
+.container__body__content__content__btn {}
